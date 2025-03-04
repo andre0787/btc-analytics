@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a27a813-c0bf-4837-be74-594680f3d4e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/btc-analytics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a27a813-c0bf-4837-be74-594680f3d4e2" name="Changes" comment="feat: criacao de arquivo para extracao dos dados e criacao de modelo para sinais de entrada e saida">
+      <change beforePath="$PROJECT_DIR$/scripts/extract.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/extract.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +13,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/extract" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "andre0787"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/andre0787/btc-analytics.git",
+    "accountId": "63a54bac-7424-43fa-9608-865bd091ee48"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "andre0787",
+    "repository": "btc-analytics"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2t4xP84ghRO35xUTJ6FDMw5gJsz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,7 +55,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -51,6 +74,39 @@
       <option name="presentableId" value="Default" />
       <updated>1739625120368</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: update poetry">
+      <option name="closed" value="true" />
+      <created>1741112662774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741112662774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: criacao de arquivo para extracao dos dados e criacao de modelo para sinais de entrada e saida">
+      <option name="closed" value="true" />
+      <created>1741112731136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741112731136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: update poetry" />
+    <MESSAGE value="feat: criacao de arquivo para extracao dos dados e criacao de modelo para sinais de entrada e saida" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: criacao de arquivo para extracao dos dados e criacao de modelo para sinais de entrada e saida" />
   </component>
 </project>

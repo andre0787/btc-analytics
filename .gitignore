@@ -30,6 +30,8 @@ wheels/
 # VS Code
 .vscode/
 *.code-workspace
+.idea/
+
 
 # PyCharm
 .idea/

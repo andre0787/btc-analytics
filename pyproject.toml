@@ -3,11 +3,15 @@ name = "btc-analytics"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "andre",email = "andreluix0787@gmail.com"}
+    {name = "andre",email = "andreluiz0787@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "mplcyberpunk (>=0.7.6,<0.8.0)",
+    "pandas (>=2.2.3,<3.0.0)",
+    "yfinance (>=0.2.54,<0.3.0)",
+    "matplotlib (>=3.10.1,<4.0.0)"
 ]
 
 
