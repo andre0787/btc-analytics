@@ -2,7 +2,8 @@
 /shelf/
 /workspace.xml
 
-# Pythonpycache__/
+# Python
+__pycache__/
 *.py[cod]
 *$py.class
 *.so
@@ -26,12 +27,12 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.ipynb_checkpoints/
 
 # VS Code
 .vscode/
 *.code-workspace
 .idea/
-
 
 # PyCharm
 .idea/
