@@ -11,7 +11,8 @@ dependencies = [
     "mplcyberpunk (>=0.7.6,<0.8.0)",
     "pandas (>=2.2.3,<3.0.0)",
     "yfinance (>=0.2.54,<0.3.0)",
-    "matplotlib (>=3.10.1,<4.0.0)"
+    "matplotlib (>=3.10.1,<4.0.0)",
+    "python-binance (>=1.0.28,<2.0.0)"
 ]
 
 
